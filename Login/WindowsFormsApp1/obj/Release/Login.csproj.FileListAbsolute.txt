@@ -1,0 +1,14 @@
+C:\Users\Liquid\Desktop\Demo\Demo_C#\Project\CarManagement\Login\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\Liquid\Desktop\Demo\Demo_C#\Project\CarManagement\Login\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\Liquid\Desktop\Demo\Demo_C#\Project\CarManagement\Login\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\Liquid\Desktop\Demo\Demo_C#\Project\CarManagement\Login\WindowsFormsApp1\bin\Release\DataSource.dll
+C:\Users\Liquid\Desktop\Demo\Demo_C#\Project\CarManagement\Login\WindowsFormsApp1\bin\Release\MaterialSkin.dll
+C:\Users\Liquid\Desktop\Demo\Demo_C#\Project\CarManagement\Login\WindowsFormsApp1\bin\Release\DataSource.pdb
+C:\Users\Liquid\Desktop\Demo\Demo_C#\Project\CarManagement\Login\WindowsFormsApp1\obj\Release\Login.csprojAssemblyReference.cache
+C:\Users\Liquid\Desktop\Demo\Demo_C#\Project\CarManagement\Login\WindowsFormsApp1\obj\Release\WindowsFormsApp1.frmLogin.resources
+C:\Users\Liquid\Desktop\Demo\Demo_C#\Project\CarManagement\Login\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Liquid\Desktop\Demo\Demo_C#\Project\CarManagement\Login\WindowsFormsApp1\obj\Release\WindowsFormsApp1.frmStart.resources
+C:\Users\Liquid\Desktop\Demo\Demo_C#\Project\CarManagement\Login\WindowsFormsApp1\obj\Release\Login.csproj.GenerateResource.cache
+C:\Users\Liquid\Desktop\Demo\Demo_C#\Project\CarManagement\Login\WindowsFormsApp1\obj\Release\Login.csproj.CopyComplete
+C:\Users\Liquid\Desktop\Demo\Demo_C#\Project\CarManagement\Login\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\Liquid\Desktop\Demo\Demo_C#\Project\CarManagement\Login\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb

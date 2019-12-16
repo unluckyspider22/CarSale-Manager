@@ -1,0 +1,5 @@
+C:\Users\Liquid\Desktop\Demo\Demo_C#\Project\CarManagement\DataSource\bin\Release\DataSource.dll
+C:\Users\Liquid\Desktop\Demo\Demo_C#\Project\CarManagement\DataSource\bin\Release\DataSource.pdb
+C:\Users\Liquid\Desktop\Demo\Demo_C#\Project\CarManagement\DataSource\obj\Release\DataSource.csprojAssemblyReference.cache
+C:\Users\Liquid\Desktop\Demo\Demo_C#\Project\CarManagement\DataSource\obj\Release\DataSource.dll
+C:\Users\Liquid\Desktop\Demo\Demo_C#\Project\CarManagement\DataSource\obj\Release\DataSource.pdb
